@@ -69,7 +69,7 @@ This client side E-commerce application is also implemented using other client s
 ### Client side
 - [Vue + Vuex](https://github.com/melardev/VueVuexBlog)
 - [Vue](https://github.com/melardev/VueBlog)
-- [React + Redux]()
+- [React + Redux](https://github.com/melardev/ReactReduxBlog)
 - [React]()
 - [Angular]()
 
